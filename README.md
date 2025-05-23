@@ -5,11 +5,11 @@ Welcome to my final project for the Real Estate Investment Trust housing price p
 In this project, I analyze and predict the prices of residential homes based on various attributes such as the number of bedrooms, square footage, number of floors, and whether the home has a waterfront view. I use linear regression and polynomial regression techniques with regularization to build models and evaluate their performance using R² score.
 
 ## 📊 Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Matplotlib & Seaborn
-- Scikit-learn
+- Python (Jupyter Notebook)
+- Pandas, NumPy – for data handling
+- Seaborn, Matplotlib – for data visualization
+- Scikit-learn – for machine learning models
+- Statsmodels – for simple linear regression
 
 ## 💻 Project Steps
 1. **Data Loading & Cleaning**
