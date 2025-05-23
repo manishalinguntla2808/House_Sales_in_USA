@@ -68,8 +68,16 @@ Open the notebook and follow the code sections to execute each step.
 
 ## Project Screenshots
 
+![1-Data Types](https://github.com/user-attachments/assets/9df955c7-74b5-4787-9ba4-3cf5ac1ed60b)
+![2-Drop columns](https://github.com/user-attachments/assets/5e783232-c1c3-4f6c-b6a2-c71f8175c2d1)
+![3 - Freq of floors](https://github.com/user-attachments/assets/2667e33b-61ff-4e23-9bf9-a6c926111edf)
+![4-Box Plot](https://github.com/user-attachments/assets/4e7d71be-3b37-43f5-b726-bc8fdbffac56)
+![5-Reg plot](https://github.com/user-attachments/assets/ebfeec13-d780-4f0b-bbe6-63bcaeeb830c)
+![6-Linear Regression Model fit](https://github.com/user-attachments/assets/7e1367dd-9c8e-4b9a-9b15-63d5a2c8eb22)
+![7-Features Linear Regression model fit](https://github.com/user-attachments/assets/1a2ac302-5be7-4ff7-99f1-7f5c98a5cd1c)
+![8-Pipeline](https://github.com/user-attachments/assets/0417301a-6a82-45fb-b2f9-104e97e6efda)
+![9-Ridge Model](https://github.com/user-attachments/assets/449ad414-f796-43b5-b7a3-b9a7a251dfb0)
 ![10-Polynomial Transform](https://github.com/user-attachments/assets/7f71090b-d2f1-4884-b1e9-782de3cde8a5)
-
 
 ## Author
 
