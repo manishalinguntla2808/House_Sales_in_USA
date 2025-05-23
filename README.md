@@ -68,7 +68,8 @@ Open the notebook and follow the code sections to execute each step.
 
 ## Project Screenshots
 
-(Screenshots of model outputs, boxplots, and descriptive statistics should be included here.)
+![10-Polynomial Transform](https://github.com/user-attachments/assets/7f71090b-d2f1-4884-b1e9-782de3cde8a5)
+
 
 ## Author
 
