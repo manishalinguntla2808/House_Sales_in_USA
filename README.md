@@ -1,56 +1,30 @@
-🏠 Housing Price Prediction Project – Final Assignment
-Hi! I worked on this project as part of my final assignment in the course. I took on the role of a Data Analyst for a Real Estate Investment Trust that’s planning to invest in residential housing. My task was to predict house prices using different features like square footage, number of bedrooms, location, and more.
+# 🏡 Housing Price Prediction Project
 
-🛠️ Tools and Libraries I Used
-Python (Jupyter Notebook)
+Welcome to my final project for the Real Estate Investment Trust housing price prediction task.
 
-Pandas, NumPy – for data handling
+In this project, I analyze and predict the prices of residential homes based on various attributes such as the number of bedrooms, square footage, number of floors, and whether the home has a waterfront view. I use linear regression and polynomial regression techniques with regularization to build models and evaluate their performance using R² score.
 
-Seaborn, Matplotlib – for data visualization
+## 📊 Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib & Seaborn
+- Scikit-learn
 
-Scikit-learn – for machine learning models
+## 💻 Project Steps
+1. **Data Loading & Cleaning**
+2. **Exploratory Data Analysis**
+3. **Feature Selection**
+4. **Model Training with Linear Regression**
+5. **Model Evaluation (R² Score)**
+6. **Polynomial Transformation and Ridge Regression**
+7. **Comparison of Model Performance**
 
-Statsmodels – for simple linear regression
+## 📈 Models Used
+- Linear Regression
+- Ridge Regression (with α = 0.1)
+- Polynomial Ridge Regression (Degree = 2)
 
-✅ What I Did
-Cleaned the dataset and checked for missing values.
+---
 
-Explored the data using charts like boxplots and value counts.
-
-Built a Linear Regression model and calculated R².
-
-Used Ridge Regression with regularization.
-
-Applied a 2nd-degree Polynomial Transformation to improve the model.
-
-Compared performance on training vs. test data using R² score.
-
-📊 Final Model Results
-Ridge Regression (linear features) → R² = 0.648
-
-Polynomial Ridge Regression (2nd order) → R² = 0.700
-
-This shows that adding polynomial features helps the model fit better.
-
-📁 Project Structure
-bash
-Copy
-Edit
-final_project/
-├── final_notebook.ipynb         # All my code and answers
-├── screenshots/                 # Screenshots of results
-├── README.md                    # This file
-└── conclusions.md               # My takeaways from the project
-📌 How to Run the Notebook
-Make sure you install the necessary libraries:
-
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn scikit-learn
-Open the Jupyter notebook:
-
-bash
-Copy
-Edit
-jupyter notebook final_notebook.ipynb
+Feel free to check out the code and screenshots of my model evaluation and plots.
